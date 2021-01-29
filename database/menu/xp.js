@@ -5,7 +5,7 @@ const xp = (prefix, botName, ownerName) => {
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerName}
-  ❏ Version: 2.0
+  ❏ Version: 0.0.4
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
