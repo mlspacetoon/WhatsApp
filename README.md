@@ -2,7 +2,7 @@
 <a href="#"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS"><img title="Dev" src="https://img.shields.io/badge/Dev-mlspacetoon-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mlspacetoon"><img title="Dev" src="https://img.shields.io/badge/Dev-mlspacetoon-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ###### Tools
@@ -12,17 +12,6 @@
 > WhatsApp
 > 2 HandPhone
 ```
-
----
-
-###### Information
-- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L78)
-- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L79)
-- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
-- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L80)
-- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L80)
-- Change menu on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/src/help.js)
-- Change Bot Name, Owner Name, & BarBarKey  on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L422)
 
 ---
 
@@ -36,10 +25,11 @@ Follow Step by Step
 
 ```bash
 > termux-setup-storage
-(after that tap on permission)
-> apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> pkg install git -y
+> apt update -y
+> pkg install bash
+> git clone https://github.com/mlspacetoo /WhatsApp
+> cd WhatsApp
 > bash install.sh
 ```
 
@@ -55,7 +45,7 @@ Follow Step by Step
 | :-: | :-: |
 
 
-| Unique Features | YES
+| Anxiety Features | ON
 | :---------------------------------------------: | :-----------: |
 | Register Name And Age|✅|
 | Leveling|✅|
@@ -65,7 +55,7 @@ Follow Step by Step
 | Event|✅|
 | Mining (Need Activate Event)|✅|
 
-|  MAKER  |                                           YES |
+|  MAKER  |                                           ON |
 | :---------------------------------------------: | :-----------: |
 | Sticker Maker|✅|
 | Sticker Gif Maker|✅|
@@ -101,18 +91,18 @@ Follow Step by Step
 | Herry Potter Image Maker|✅|
 | Pubg Logo Maker|✅|
 
-| SimSimi | YES |
+| SimSimi | ON |
 | :-----------------: | :-------: |
 | Simi|✅|
 | Simih|✅|
 
-| MEDIA | YES |
+| MEDIA | ON |
 | :-----------------: | :-------: |
 | Trend Twit|✅|
 | YT Search|✅|
 | Random KPOP|✅|
 
-| EDUCATION | YES |
+| EDUCATION | ON |
 | :-----------------: | :-------: |
 | The Meaning Of The Name|✅|
 | Nulis|✅|
@@ -121,13 +111,13 @@ Follow Step by Step
 | Translate|✅|
 | Tafsir Mimpi|✅|
 
-| ASK | YES |
+| ASK | ON |
 | :-----------------: | :-------: |
 | Apakah|✅|
 | Kapankah|✅|
 | Bisakah|✅|
 
-| DOWNLOADER | YES |
+| DOWNLOADER | ON |
 | :-----------------: | :-------: |
 | Pinterest Downloader|✅|
 | Ytmp3 Downloader|✅|
@@ -136,12 +126,12 @@ Follow Step by Step
 | Joox2 Downloader|✅|
 | TikTok Downloader|✅|
 
-| MEME | YES |
+| MEME | ON |
 | :-----------------: | :-------: |
 | Meme|✅|
 | Meme Indo|✅|
 
-| GROUP | YES |
+| GROUP | ON |
 | :-----------------: | :-------: |
 | Open Group|✅|
 | Close Group|✅|
@@ -163,26 +153,26 @@ Follow Step by Step
 | Simih|✅|
 | Tag Me|✅|
 
-| SOUND | YES |
+| SOUND | ON |
 | :-----------------: | :-------: |
 | Text To Speach|✅|
 | Play|✅|
 
-| MUSIC | YES |
+| MUSIC | ON |
 | :-----------------: | :-------: |
 | Music Lyrics|✅|
 | Chord Guitar|✅|
 
-| ISLAM | YES |
+| ISLAM | ON |
 | :-----------------: | :-------: |
 | Qur'an|✅|
 
-| STALK | YES |
+| STALK | ON |
 | :-----------------: | :-------: |
 | Instagram Stalk|✅|
 | Tiktok Stalk|✅|
 
-| WIBU | YES |
+| WIBU | ON |
 | :-----------------: | :-------: |
 | Neonime|✅|
 | Pokemon|✅|
@@ -195,7 +185,7 @@ Follow Step by Step
 | Random Husbu2|✅|
 | What Anime Is This|✅|
 
-| FUN | YES |
+| FUN | ON |
 | :-----------------: | :-------: |
 | Alay|✅|
 | Glitch|✅|
@@ -205,7 +195,7 @@ Follow Step by Step
 | Random Hobby|✅|
 | Simi|✅|
 
-| INFORMATION | YES |
+| INFORMATION | ON |
 | :-----------------: | :-------: |
 | List Bahasa|✅|
 | List Kode Negara|✅|
@@ -217,13 +207,13 @@ Follow Step by Step
 | Ping|✅|
 | Jadwal TV Now|✅|
 
-| 18+ | YES |
+| 18+ | ON |
 | :-----------------: | :-------: |
 | Random Hentai|✅|
 | NSFW Neko|✅|
 | NSFW Trap|✅|
 
-| OWNER | YES |
+| OWNER | ON |
 | :-----------------: | :-------: |
 | Set Prefix|✅|
 | Block Member|✅|
@@ -232,7 +222,7 @@ Follow Step by Step
 | Clear All Chat|✅|
 | Clone Photo Profile Bot|✅|
 
-| OTHER | YES |
+| OTHER | ON |
 | :-----------------: | :-------: |
 | Send|✅|
 | WaMe|✅|
@@ -244,10 +234,6 @@ Follow Step by Step
 | FML2|✅|
 | Afk|✅|
 | Timer|✅|
-
----
-
-<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/tumblr_mbi70xxizM1r922azo1_500_large.gif">
 
 ---
 
