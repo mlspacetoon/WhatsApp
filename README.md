@@ -1,3 +1,8 @@
+</p align="center"> 
+  here<br>
+  <img src="https://profile-counter.glitch.me/mlspacetoon-WhatsApp/count.svg" />
+</p>
+
 <p align="center">
 <a href="#"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -6,13 +11,8 @@
 </p>
 
 
-</p align="center"> 
-  here<br>
-  <img src="https://profile-counter.glitch.me/mlspacetoon-WhatsApp/count.svg" />
-</p>
-
 <p align="center">
-  <a href="https://github.com/mlspacetoon/WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/mlspacetoon/WhatsApp?color=red&style=flat-square" /></a>
+  <a href="https://github.com/mlspacetoon/WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/mlspacetoon/WhatsApp?color=green&style=flat-square" /></a>
   <a href="https://github.com/mlspacetoon/WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mlspacetoon/WhatsApp?color=red&style=flat-square" /></a>
   <a href="https://github.com/mlspacetoon/WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mlspacetoon/WhatsApp?label=watchers&color=blue&style=flat-square" /></a> <br>
   <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
