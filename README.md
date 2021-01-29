@@ -1,7 +1,5 @@
-</p align="center"> 
-  Waitt..<br>
-  <img src="https://profile-counter.glitch.me/mlspacetoon-WhatsApp/count.svg" />
-</p>
+[![Instagram itspapoy](https://img.shields.io/instagram/followers/itspapoy?label=follow&style=social)](https://github.com/itspapoy)
+![](https://visitor-badge.glitch.me/badge?page_id=mlspacetoon)
 
 <p align="center">
 <a href="#"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
