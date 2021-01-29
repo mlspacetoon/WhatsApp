@@ -1,4 +1,4 @@
-[![Instagram mlscpacetoon](https://img.shields.io/instagram/followers/mlspacetoon?label=follow&style=social)](https://instagram.com/itspapoy)
+[![Github mlscpacetoon](https://img.shields.io/github/followers/mlspacetoon?label=follow&style=social)](https://github.com/mlspacetoon)
 ![](https://visitor-badge.glitch.me/badge?page_id=mlspacetoon)
 
 <p align="center">
