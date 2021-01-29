@@ -6,7 +6,7 @@ const education = (prefix, botName, ownerName) => {
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
-   ┠≽ *Version* : 0.0.4
+   ┠≽ *Version* : 2.0
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
