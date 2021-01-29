@@ -28,7 +28,7 @@ Follow Step by Step
 > pkg install git -y
 > apt update -y
 > pkg install bash
-> git clone https://github.com/mlspacetoo /WhatsApp
+> git clone https://github.com/mlspacetoon/WhatsApp
 > cd WhatsApp
 > bash install.sh
 ```
