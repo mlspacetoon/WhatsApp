@@ -1,11 +1,11 @@
 const group = (prefix, botName, ownerName) => {
         return `
-┏ *〈 ${botName} 〉*
+┏ *〈 mlspacetoon 〉*
 ╿
 ┷┯ *〈 BOT INFO 〉*
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
-   ┠≽ *Creator* : ${ownerName}
+   ┠≽ *Creator* : stardust
    ┠≽ *Version* : 0.0.4
    ╿
 ┯┷ *〈 ABOUT 〉*
@@ -87,6 +87,6 @@ const group = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}ownergroup*
    ┃ *Desc* : Shows who the Group Owner is
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Developer © mlspacetoon`
 }
 exports.group = group
