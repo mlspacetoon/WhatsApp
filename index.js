@@ -104,7 +104,8 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = '.'
 blocked = []
 limitawal = '20'
-cr = '*Verified*'
+cr = '*MLSPACETOON*'
+nomcr = `6287714745440@s.whatsapp.net`
 
 // Functions
 const getLevelingXp = (userId) => {
@@ -1156,7 +1157,7 @@ async function starts() {
 						teks += `╠➥ https://wa.me/${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					client.sendMessage(from, '╔══✪〘 Mention All 〙✪══\n╠➥'+teks+'╚═〘 - - - - - 〙', text, {detectLinks: false, quoted: mek})
+					client.sendMessage(from, '╔══✪〘 Mention All 〙✪══\n╠➥'+teks+'╚═〘 mlspacetoon 〙', text, {detectLinks: false, quoted: mek})
 					break
                         case 'otagall':
 				client.updatePresence(from, Presence.composing) 
@@ -1166,10 +1167,10 @@ async function starts() {
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += `  Total : ${groupMembers.length}\n`
 					for (let mem of groupMembers) {
-						teks += `╠➥ ${mem.jid.split('@')[0]}@c.us\n`
+						teks += `╠🔥 ${mem.jid.split('@')[0]}@c.us\n`
 						members_id.push(mem.jid)
 					}
-					client.sendMessage(from, '╔══✪〘 Mention All 〙✪══\n╠➥'+teks+'╚═〘 - - - - - 〙', text, {quoted: mek})
+					client.sendMessage(from, '╔══🔥〘 OTAG|ALL 〙🔥══\n╠'+teks+'╚═〘 mlspacetoon 〙', text, {quoted: mek})
 					break
                 case 'otagall2':
 				client.updatePresence(from, Presence.composing) 
@@ -1179,10 +1180,10 @@ async function starts() {
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += `  Total : ${groupMembers.length}\n`
 					for (let mem of groupMembers) {
-						teks += `╠➥ ${mem.jid.split('@')[0]}@s.whatsapp.net\n`
+						teks += `╠🎙️ ${mem.jid.split('@')[0]}@s.whatsapp.net\n`
 						members_id.push(mem.jid)
 					}
-					reply('╔══✪〘 Mention All 〙✪══\n╠➥'+teks+'╚═〘 - - - - - 〙')
+					reply('╔══🎙️〘 OTAG|ALL 〙🎙️══\n╠🎙️'+teks+'╚═〘 mlspacetoon 〙')
 					break
 				case 'send':
 					var pc = body.slice(6)
