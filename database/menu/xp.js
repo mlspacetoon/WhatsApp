@@ -1,10 +1,10 @@
 const xp = (prefix, botName, ownerName) => {
         return `
-「 *${botName}* 」
+「 *mlspacetoon* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: stardust
   ❏ Version: 0.0.4
 ◪ *ABOUT*
   │
@@ -19,6 +19,6 @@ const xp = (prefix, botName, ownerName) => {
   ├─ ❏ ${prefix}level
   └─ ❏ ${prefix}mining
 --------------------------------
-Note: Kamu bisa mengumpulkan xp dan menaikan levelmu dengan cara chat dengan siapapun di dalam grup yang telah di aktifkan fitur leveling nya.`
+Note: Kamu bisa mengumpulkan xp dan menaikan levelmu dengan cara chat dengan siapapun di dalam grup yang telah di aktifkan fitur leveling nya ogheyy misqah?.`
 }
 exports.xp = xp
