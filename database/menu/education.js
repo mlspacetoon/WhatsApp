@@ -1,11 +1,11 @@
 const education = (prefix, botName, ownerName) => {
 	return `
-┏ *〈 ${botName} 〉*
+┏ *〈 mlspacetoon 〉*
 ╿
 ┷┯ *〈 BOT INFO 〉*
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
-   ┠≽ *Creator* : ${ownerName}
+   ┠≽ *Creator* : stardust
    ┠≽ *Version* : 0.0.4
    ╿
 ┯┷ *〈 ABOUT 〉*
@@ -51,6 +51,6 @@ const education = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}artinama* <name>
    ┃ *Desc* : Interpret Names
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Developer © mlspacetoon`
 }
 exports.education = education
