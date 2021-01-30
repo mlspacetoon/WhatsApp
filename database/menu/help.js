@@ -1,6 +1,6 @@
 const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
         return `
-┏ *〈 ${botName} 〉*
+┏ *〈 mlspacetoon 〉*
 ╿
 ┷┯ *〈 USER INFO 〉*
    ╽
@@ -12,7 +12,7 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ┯┷ *〈 BOT INFO 〉*
 ╽
 ┠≽ *Prefix* : 「  ${prefix}  」
-┠≽ *Creator* : ${ownerName}
+┠≽ *Creator* : stardust
 ┠≽ *Version* : 0.0.4
 ╿
 ┷┯ *〈 MENU 〉*
@@ -40,6 +40,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
    ┠≽ ${prefix}ownermenu
    ┠≽ ${prefix}othermenu
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Developer © mlspacetoon`
 }
 exports.help = help
