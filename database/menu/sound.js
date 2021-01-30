@@ -1,10 +1,10 @@
 const sound = (prefix, botName, ownerName) => {
         return `
-「 *${botName}* 」
+「 *mlspacetoom* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: stardust
   ❏ Version: 0.0.4
 ◪ *ABOUT*
   │
