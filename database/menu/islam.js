@@ -1,11 +1,11 @@
 const islam = (prefix, botName, ownerName) => {
         return `
 
-「 *${botName}* 」
+「 *mlspacetoon* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: stardust
   ❏ Version: 0.0.4
 ◪ *ABOUT*
   │
