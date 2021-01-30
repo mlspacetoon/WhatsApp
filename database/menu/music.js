@@ -1,10 +1,10 @@
 const music = (prefix, botName, ownerName) => {
         return `
-「 *${botName}* 」
+「 *mlspacetoo * 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: stardust
   ❏ Version: 0.0.4
 ◪ *ABOUT*
   │
