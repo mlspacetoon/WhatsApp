@@ -1,11 +1,11 @@
 const fun = (prefix, botName, ownerName) => {
         return `
-┏ *〈 ${botName} 〉*
+┏ *〈 mlspacetoon 〉*
 ╿
 ┷┯ *〈 BOT INFO 〉*
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
-   ┠≽ *Creator* : ${ownerName}
+   ┠≽ *Creator* : stardust
    ┠≽ *Version* : 0.0.4
    ╿
 ┯┷ *〈 ABOUT 〉*
@@ -42,6 +42,6 @@ const fun = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}simi* <text>
    ┃ *Desc* : Talk to Simi
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Developer © mlspacetoon`
 }
 exports.fun = fun
