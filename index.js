@@ -91,8 +91,8 @@ const { stayonscreen } = require('./database/menu/stayonscreen')
 const { stickermaker } = require('./database/menu/stickermaker')
 const { tod } = require('./database/menu/tod')
 const { wibu } = require('./database/menu/wibu')
-/*const { xp } = require('./database/menu/xp')
-const { limit } = require('./database/menu/limit*/
+const { xp } = require('./database/menu/xp')
+const { limit } = require('./database/menu/limit')
 
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
