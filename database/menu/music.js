@@ -1,6 +1,6 @@
 const music = (prefix, botName, ownerName) => {
         return `
-「 *mlspacetoo * 」
+「 *mlspacetoon * 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
