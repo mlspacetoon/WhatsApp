@@ -1,6 +1,6 @@
 const adult = (prefix, botName, ownerName) => {
         return `
-┏ *〈 ${botName} 〉*
+┏ *〈 mlspacetoon 〉*
 ╿
 ┷┯ *〈 BOT INFO 〉*
    ╽
@@ -36,6 +36,6 @@ const adult = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}nsfwneko*
    ┃ *Desc* : Sending Random NSFW Neko Image (nsfw needed)
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Developer © mlspacetoon`
 }
 exports.adult = adult
